@@ -24,6 +24,7 @@
 
 Состояние объекта — это набор всех его полей и их значений.
 
+
 Поведение объекта — это набор всех методов класса объекта.
 
 Идентичность объекта — это то, что отличает один объект класса от другого объекта класса
@@ -34,9 +35,19 @@
 
 ![image](https://user-images.githubusercontent.com/56086653/172847679-07b76cb0-71ef-401b-a3e7-f895a59d3005.png)
 
-https://habr.com/ru/post/509430/
+### Solid
 
-https://web-creator.ru/articles/solid
+### [принцип единственной ответственности](https://web-creator.ru/articles/solid_the_single_responsibility_principle)
+
+### [принцип открытости-закрытости](https://web-creator.ru/articles/solid_the_open_closed_principle)
+
+### [принцип подстановки Барбары Лисков](https://web-creator.ru/articles/solid_the_liskov_substitution_principle)
+
+### [принцип разделения интерфейса](https://web-creator.ru/articles/solid_the_interface_segregation_principle)
+
+### [принцип инверсии зависимостей](https://web-creator.ru/articles/solid_the_dependency_inversion_principle)
+
+
 
 
 ## 3. ООП. Классы. Устройство в памяти. Инкапсуляция. Модификаторы доступа. Наследование. Множественное наследование. Проблемы множественного наследование.
