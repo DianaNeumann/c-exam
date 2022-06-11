@@ -73,6 +73,9 @@ https://habr.com/ru/post/251091/
 
 ![image](https://user-images.githubusercontent.com/56086653/173194352-b4f4134e-ca97-4639-aaa0-e555aef4517f.png)
 
+![image](https://user-images.githubusercontent.com/56086653/173194463-80fd05e2-ee2d-4dca-be48-fbe5dca0d69d.png)
+
+
 ## 4. ООП. Классы. Инициализация и уничтожение. Виды конструкторов Виртуальные методы. Таблица виртуальных функций. Виртуальные деструкторы.
 
 ## 5. ООП. Операторы. Перегрузка операторов.
