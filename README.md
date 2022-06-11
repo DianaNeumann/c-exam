@@ -1,4 +1,6 @@
 
+# [(https://docs.google.com/document/u/0/d/1lFzPt4vnC81c8UabRYkME_Xis2m-acU_esWA-DlN5Mw/mobilebasic)
+
 ## 1. Ссылки. Разница между ссылкой и указателем. Зачем в С++ были добавлены ссылки.
 ```
 
