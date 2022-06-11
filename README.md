@@ -14,6 +14,8 @@
 
 ![image](https://user-images.githubusercontent.com/56086653/173192302-c2d5e7b9-6f1f-4f1d-90a2-39445656c0e7.png)
 
+Указатели и ссылки — это два синтаксически разных способа в C++ выразить понятие адреса
+
 ```
 https://habr.com/ru/post/251091/
 
