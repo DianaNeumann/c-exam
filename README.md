@@ -77,6 +77,30 @@ https://habr.com/ru/post/251091/
 
 ![image](https://user-images.githubusercontent.com/56086653/173194463-80fd05e2-ee2d-4dca-be48-fbe5dca0d69d.png)
 
+выравнивать стоит по размеру наибольшего типа в классе!
+
+![image](https://user-images.githubusercontent.com/56086653/173461319-7f824eba-cdb6-40c3-bbc7-82ea6e285a52.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173462458-101559ba-541e-4c75-83c8-389de6a51d20.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173463478-6a374bdf-481b-4633-8fd2-37bc81ca009c.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173463599-96b6e769-f256-456d-adde-7f2e1a0b504e.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173464014-29cd1ec6-c03e-4784-b500-9fd04a907e76.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173464075-a9fa76da-394e-490e-b301-e219b327736b.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173464443-fe92e377-2808-4c7c-bb1e-b8d7a9268461.png)
+
+```
+http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
+```
+
+Класс – это способ описания сущности, определяющий состояние и поведение, зависящее от этого состояния, а также правила для взаимодействия с данной сущностью (контракт).
+С точки зрения программирования класс можно рассматривать как набор данных (полей, атрибутов, членов класса) и функций для работы с ними (методов).
+
+
 
 ## 4. ООП. Классы. Инициализация и уничтожение. Виды конструкторов Виртуальные методы. Таблица виртуальных функций. Виртуальные деструкторы.
 
