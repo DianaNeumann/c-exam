@@ -248,6 +248,9 @@ https://habr.com/ru/post/54762/
 
 ![image](https://user-images.githubusercontent.com/56086653/173671121-ab289703-4c70-43d6-ae85-60f38e2e93fb.png)
 
+![image](https://user-images.githubusercontent.com/56086653/173673459-2e30bef3-30fe-4f48-877f-f3f0682a7d6f.png)
+
+
 
 
 ## 9. Variadic template
