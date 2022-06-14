@@ -228,10 +228,20 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 ![image](https://user-images.githubusercontent.com/56086653/173663542-1bfddffa-cdd8-4cc7-a721-b2f28901ddfd.png)
 
 
+![image](https://user-images.githubusercontent.com/56086653/173670828-b587a901-e17a-48b9-a80b-c27f807d9e7f.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173670857-82d96596-c0d4-4c3b-a132-13fe7189e38a.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173670868-419ee83d-157a-45ad-9f40-dea832633eff.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173670890-6d8e65f0-56e9-4112-aa53-87384cb32d57.png)
 
 
 
 ## 8. Шаблоны. Частичная специализация и полная специализация
+
+![image](https://user-images.githubusercontent.com/56086653/173670769-a5cc508b-f787-4dab-89c4-845b3a6bd244.png)
+
 
 ## 9. Variadic template
 
