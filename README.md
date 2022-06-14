@@ -160,6 +160,12 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ![image](https://user-images.githubusercontent.com/56086653/173471788-1cc0e63d-b934-4fb3-a93b-17bfe123d570.png)
 
+![image](https://user-images.githubusercontent.com/56086653/173584164-ef822d54-34f4-427c-8167-701c96dba469.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173585532-ffa754bb-b5a6-410f-bee7-ada14c9d698b.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173585965-7f40141f-5542-44aa-b128-5856f535f60f.png)
+
 ## 5. ООП. Операторы. Перегрузка операторов.
 
 ## 6. Исключения. Обработка ошибок в Си. Assert. Исключения.Преимущества и недостатки исключений.
