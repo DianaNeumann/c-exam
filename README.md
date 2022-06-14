@@ -192,6 +192,20 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ![image](https://user-images.githubusercontent.com/56086653/173592775-d34a46f2-b067-4f30-bd7a-f4efe9758cb6.png)
 
+---
+
+![image](https://user-images.githubusercontent.com/56086653/173603053-c92d0379-512b-46a0-b280-8c3fd843e7c0.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/56086653/173603653-95a3c45f-174a-4c50-a456-18ae0639c4d0.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/56086653/173603767-1613ecdf-27e3-4968-8f7e-dedcafea31e6.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173603816-5025b91d-973c-4d67-8f0a-8479da455e29.png)
+
 
 
 
