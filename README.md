@@ -240,7 +240,14 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ## 8. Шаблоны. Частичная специализация и полная специализация
 
+```
+https://habr.com/ru/post/54762/
+```
+
 ![image](https://user-images.githubusercontent.com/56086653/173670769-a5cc508b-f787-4dab-89c4-845b3a6bd244.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173671121-ab289703-4c70-43d6-ae85-60f38e2e93fb.png)
+
 
 
 ## 9. Variadic template
