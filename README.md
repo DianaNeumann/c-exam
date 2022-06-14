@@ -222,11 +222,16 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ## 7. Шаблоны. Шаблоны функций, классов.
 
+
 ## 8. Шаблоны. Частичная специализация и полная специализация
 
 ## 9. Variadic template
 
 ## 10.Преобразования типов. Явные и неявные. С-cast, static_cast, dynamic_cast, const_cast, reinterpret_cast. CRTP
+
+![image](https://user-images.githubusercontent.com/56086653/173632967-e94786e8-3225-436d-bec7-69925be5815d.png)
+
+
 
 ## 11. Стандартная библиотека. Итераторы. Алгоритмы. Основные классы алгоритмов.
 
