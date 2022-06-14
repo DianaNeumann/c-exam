@@ -235,7 +235,8 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ![image](https://user-images.githubusercontent.com/56086653/173635080-5d6e417f-2c2c-4a82-9981-696f03f5b07e.png)
 
-ИМБА! - [СТАТЬЯ ПРО КАСТЫ](https://habr.com/ru/post/266747/)
+#### ИМБА! - [СТАТЬЯ ПРО КАСТЫ](https://habr.com/ru/post/266747/)
+---
 
 
 
