@@ -168,6 +168,17 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ## 5. ООП. Операторы. Перегрузка операторов.
 
+Перегружать можно только операции над пользовательскими типами!
+
+![image](https://user-images.githubusercontent.com/56086653/173588899-df4a2288-c88e-4319-bbbb-ae04b520fb82.png)
+
+
+![image](https://user-images.githubusercontent.com/56086653/173587172-7801b328-74a7-48f3-8b89-62217acc5e2b.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173587274-d0ea6421-5f17-49f5-b653-ee93ac0f811c.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173588672-0dc34c32-7745-43d3-aaf3-9126759b4dfd.png)
+
 ## 6. Исключения. Обработка ошибок в Си. Assert. Исключения.Преимущества и недостатки исключений.
 
 ## 7. Шаблоны. Шаблоны функций, классов.
