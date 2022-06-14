@@ -206,7 +206,18 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ![image](https://user-images.githubusercontent.com/56086653/173603816-5025b91d-973c-4d67-8f0a-8479da455e29.png)
 
+![image](https://user-images.githubusercontent.com/56086653/173630596-1666f10b-801f-4400-a71c-4afd10f023e7.png)
 
+![image](https://user-images.githubusercontent.com/56086653/173630640-28d4c062-658b-43b9-8db5-2248ed2de1f3.png)
+
+ВАЖНО !
+
+![image](https://user-images.githubusercontent.com/56086653/173631138-f1b1f877-c870-4834-830b-4ffd69ad8808.png)
+
+
+Перехватываем оверфлоу 
+
+![image](https://user-images.githubusercontent.com/56086653/173630539-cbc77b36-b8ec-46be-a29f-76d26ab82f02.png)
 
 
 ## 7. Шаблоны. Шаблоны функций, классов.
