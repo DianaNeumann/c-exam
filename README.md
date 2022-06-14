@@ -186,6 +186,15 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ## 6. Исключения. Обработка ошибок в Си. Assert. Исключения.Преимущества и недостатки исключений.
 
+![image](https://user-images.githubusercontent.com/56086653/173592714-47b7e67b-1b10-430a-842a-154b5048df2f.png)
+
+---
+
+![image](https://user-images.githubusercontent.com/56086653/173592775-d34a46f2-b067-4f30-bd7a-f4efe9758cb6.png)
+
+
+
+
 ## 7. Шаблоны. Шаблоны функций, классов.
 
 ## 8. Шаблоны. Частичная специализация и полная специализация
