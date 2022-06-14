@@ -158,7 +158,7 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 Чистая виртуальная функция — это метод класса, тело которого не определено.
 
-
+![image](https://user-images.githubusercontent.com/56086653/173471788-1cc0e63d-b934-4fb3-a93b-17bfe123d570.png)
 
 ## 5. ООП. Операторы. Перегрузка операторов.
 
