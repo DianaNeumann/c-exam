@@ -231,6 +231,12 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ![image](https://user-images.githubusercontent.com/56086653/173632967-e94786e8-3225-436d-bec7-69925be5815d.png)
 
+![image](https://user-images.githubusercontent.com/56086653/173635023-e5529a41-4e90-43fa-9325-92e50e0c56f0.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173635080-5d6e417f-2c2c-4a82-9981-696f03f5b07e.png)
+
+ИМБА! - [СТАТЬЯ ПРО КАСТЫ](https://habr.com/ru/post/266747/)
+
 
 
 ## 11. Стандартная библиотека. Итераторы. Алгоритмы. Основные классы алгоритмов.
