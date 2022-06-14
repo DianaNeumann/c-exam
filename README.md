@@ -269,6 +269,13 @@ Variadic template - это шаблон с переменным количест
 
 ![image](https://user-images.githubusercontent.com/56086653/173674064-c4504bac-1cbe-4ce4-a8e0-a923209a09de.png)
 
+![image](https://user-images.githubusercontent.com/56086653/173675486-b0e872d2-3610-4943-8729-8e613f62531e.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173675621-af279746-b333-4080-bdbb-c539bde5d92f.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173675862-b341f605-001f-4c17-a7e4-b3192cc11e4c.png)
+
+
 
 ## 10.Преобразования типов. Явные и неявные. С-cast, static_cast, dynamic_cast, const_cast, reinterpret_cast. CRTP
 
