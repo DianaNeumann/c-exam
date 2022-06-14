@@ -236,6 +236,11 @@ http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx
 
 ![image](https://user-images.githubusercontent.com/56086653/173670890-6d8e65f0-56e9-4112-aa53-87384cb32d57.png)
 
+Функциональный объект 
+
+![image](https://user-images.githubusercontent.com/56086653/173674747-b4ed5ae2-ee3a-403e-a169-c276e8db79e0.png)
+
+
 
 
 ## 8. Шаблоны. Частичная специализация и полная специализация
