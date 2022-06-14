@@ -255,6 +255,16 @@ https://habr.com/ru/post/54762/
 
 ## 9. Variadic template
 
+```
+https://teccxx.neocities.org/mx1/variadic_templates.html
+
+```
+Variadic template - это шаблон с переменным количеством аргументов
+
+
+![image](https://user-images.githubusercontent.com/56086653/173674064-c4504bac-1cbe-4ce4-a8e0-a923209a09de.png)
+
+
 ## 10.Преобразования типов. Явные и неявные. С-cast, static_cast, dynamic_cast, const_cast, reinterpret_cast. CRTP
 
 ![image](https://user-images.githubusercontent.com/56086653/173632967-e94786e8-3225-436d-bec7-69925be5815d.png)
