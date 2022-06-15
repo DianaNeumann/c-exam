@@ -288,7 +288,29 @@ Variadic template - это шаблон с переменным количест
 #### ИМБА! - [СТАТЬЯ ПРО КАСТЫ](https://habr.com/ru/post/266747/)
 ---
 
-CRTP - позже
+[Гениально о CRTP](https://nuancesprog-ru.turbopages.org/nuancesprog.ru/s/p/15557/)
+
+![image](https://user-images.githubusercontent.com/56086653/173708740-a952cfef-be78-415d-ba3f-7e116137aa0d.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173708828-f72876e5-bbd3-49df-9690-189200a21e2e.png)
+
+crtp:
+
+![image](https://user-images.githubusercontent.com/56086653/173708972-ab6ed6a4-17b5-49f8-a7ea-6d31daa57b9a.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173709006-b3038d08-04e6-46cd-b7d6-0f94f67c3148.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173709030-d6d5f39b-ae91-44fc-a9d8-5ba00057b1aa.png)
+
+Еще одна реализация CRTP:
+
+![image](https://user-images.githubusercontent.com/56086653/173709557-b0171827-3d2e-4813-b425-62f9f11a4f8c.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173709608-d815f3d1-0537-404f-aaa7-1f4e7f52691b.png)
+
+![image](https://user-images.githubusercontent.com/56086653/173709664-4aded49d-19c4-459a-970c-4821ba7d2859.png)
+
+
 
 
 
