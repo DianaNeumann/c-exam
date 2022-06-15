@@ -322,6 +322,8 @@ crtp:
 
 ## 14.Стандартная библиотека. Адаптеры.
 
+[реализация стека через вектор](https://stackoverflow.com/questions/30579649/wish-for-better-c-stack-implementation-using-vectors)
+
 ## 15.Умные указатели. auto_ptr, unique_ptr, shared_ptr, weak_ptr. Устройство, преимущества и недостатки.
 
 [статья](https://eax.me/cpp-smart-pointers/)
