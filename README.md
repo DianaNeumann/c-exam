@@ -323,3 +323,5 @@ crtp:
 ## 14.Стандартная библиотека. Адаптеры.
 
 ## 15.Умные указатели. auto_ptr, unique_ptr, shared_ptr, weak_ptr. Устройство, преимущества и недостатки.
+
+[статья](https://eax.me/cpp-smart-pointers/)
