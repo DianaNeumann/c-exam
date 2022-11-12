@@ -325,3 +325,5 @@ crtp:
 ## 15.Умные указатели. auto_ptr, unique_ptr, shared_ptr, weak_ptr. Устройство, преимущества и недостатки.
 
 [статья](https://eax.me/cpp-smart-pointers/)
+
+hmmm checks
